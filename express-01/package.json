@@ -1,0 +1,13 @@
+{
+  "name": "aos-2026.2",
+  "version": "1.0.0",
+  "description": "projeto de exemplo para a disciplina AOS da UNICAP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["express","UNICAP","dontenv","back-end"],
+  "author": "Marcio-H-Santos",
+  "license": "ISC",
+  "type": "commonjs"
+}
